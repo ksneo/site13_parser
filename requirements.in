@@ -1,3 +1,6 @@
+click
 pip-tools
 pylint
-click
+pytest
+pytest-mock
+pytest-watch
